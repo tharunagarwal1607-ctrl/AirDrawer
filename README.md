@@ -95,9 +95,9 @@ Tip: If you only use one hand, it's automatically treated as your drawing hand. 
 
 ## 👨‍💻 Developer
 
-**Gowtham R**
-📸 Instagram: [@gowtham_techie](https://www.instagram.com/gowtham_techie/)
-🐙 GitHub: [Gowtham-R03](https://github.com/Gowtham-R03)
+**Tharun Thangadi**
+📸 Instagram: [@tharun_thangadi_1607](https://www.instagram.com/tharun_thangadi_1607/)
+🐙 GitHub: [tharunagarwal1607-ctrl](https://github.com/tharunagarwal1607-ctrl)
 
 ---
 *Built with passion for AI and Spatial Computing.*
